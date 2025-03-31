@@ -1,5 +1,7 @@
 # liger-wrap
 
+<img src="assets/liger.png" alt="liger" width="200"/>
+
 This repo serves as a proof of concept wrapper to simply integrate the Liger Kernel modules into your pytorch models.
 
 Once you've setup your environment you can run the test.py with pytorch or liger via the following:
