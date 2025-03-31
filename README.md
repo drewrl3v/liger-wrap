@@ -1,5 +1,7 @@
 # liger-wrap
 
+This repo serves as a proof of concept wrapper to simply integrate the Liger Kernel modules into your pytorch models.
+
 ## Requirements:
 
 ## First:
